@@ -1,2 +1,3 @@
-# Address-Book
-The Address Book Project is a structured application that allows users to add, edit, delete, view, and search contact information. It organizes details like names, phone numbers, and address, and includes a flowchart that illustrates the program’s execution flow for better understanding.
+# Address Book Project
+
+The Address Book Project is a structured application that enables users to efficiently manage contact information by providing functionalities to add, edit, delete, view, and search contacts. It organizes essential details such as names, phone numbers, and physical addresses. The program was developed using Python. Additionally, the project includes a flowchart created with Flowgorithm, which formally outlines the program’s execution process and mirrors the functionality of the Python implementation.
